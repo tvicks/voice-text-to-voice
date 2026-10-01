@@ -1,0 +1,6 @@
+{
+  "name": "Vocalis - Multi-Language Text to Voice Studio",
+  "description": "Advanced text-to-voice speaker application featuring customizable voices, multi-language speech synthesis, studio-grade styling, and audio export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
